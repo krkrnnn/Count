@@ -15,6 +15,13 @@
 		94C115EB1C5EEA1600E0C86D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94C115E91C5EEA1600E0C86D /* LaunchScreen.storyboard */; };
 		94C115F61C5EEA1600E0C86D /* CountHW2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C115F51C5EEA1600E0C86D /* CountHW2Tests.swift */; };
 		94C116011C5EEA1600E0C86D /* CountHW2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C116001C5EEA1600E0C86D /* CountHW2UITests.swift */; };
+		94C116111C5EEB3500E0C86D /* fish3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 94C116101C5EEB3500E0C86D /* fish3.jpg */; };
+		94C116131C5EED6F00E0C86D /* アイコン猫.png in Resources */ = {isa = PBXBuildFile; fileRef = 94C116121C5EED6F00E0C86D /* アイコン猫.png */; };
+		94C116151C5F0C2700E0C86D /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 94C116141C5F0C2700E0C86D /* cat.png */; };
+		94C116191C5F154100E0C86D /* heart.png in Resources */ = {isa = PBXBuildFile; fileRef = 94C116181C5F154100E0C86D /* heart.png */; };
+		94C1161B1C5F19DC00E0C86D /* thankyou.png in Resources */ = {isa = PBXBuildFile; fileRef = 94C1161A1C5F19DC00E0C86D /* thankyou.png */; };
+		94C1161D1C5F1D8100E0C86D /* thankyou2.png in Resources */ = {isa = PBXBuildFile; fileRef = 94C1161C1C5F1D8100E0C86D /* thankyou2.png */; };
+		94C1161F1C5F1E3D00E0C86D /* thankyou3.png in Resources */ = {isa = PBXBuildFile; fileRef = 94C1161E1C5F1E3D00E0C86D /* thankyou3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +56,13 @@
 		94C115FC1C5EEA1600E0C86D /* CountHW2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountHW2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94C116001C5EEA1600E0C86D /* CountHW2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountHW2UITests.swift; sourceTree = "<group>"; };
 		94C116021C5EEA1600E0C86D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94C116101C5EEB3500E0C86D /* fish3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fish3.jpg; sourceTree = "<group>"; };
+		94C116121C5EED6F00E0C86D /* アイコン猫.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "アイコン猫.png"; sourceTree = "<group>"; };
+		94C116141C5F0C2700E0C86D /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
+		94C116181C5F154100E0C86D /* heart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heart.png; sourceTree = "<group>"; };
+		94C1161A1C5F19DC00E0C86D /* thankyou.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thankyou.png; sourceTree = "<group>"; };
+		94C1161C1C5F1D8100E0C86D /* thankyou2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thankyou2.png; sourceTree = "<group>"; };
+		94C1161E1C5F1E3D00E0C86D /* thankyou3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thankyou3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +113,13 @@
 		94C115DC1C5EEA1600E0C86D /* CountHW2 */ = {
 			isa = PBXGroup;
 			children = (
+				94C1161E1C5F1E3D00E0C86D /* thankyou3.png */,
+				94C1161C1C5F1D8100E0C86D /* thankyou2.png */,
+				94C1161A1C5F19DC00E0C86D /* thankyou.png */,
+				94C116181C5F154100E0C86D /* heart.png */,
+				94C116141C5F0C2700E0C86D /* cat.png */,
+				94C116121C5EED6F00E0C86D /* アイコン猫.png */,
+				94C116101C5EEB3500E0C86D /* fish3.jpg */,
 				94C115DD1C5EEA1600E0C86D /* AppDelegate.swift */,
 				94C115DF1C5EEA1600E0C86D /* ViewController.swift */,
 				94C115E11C5EEA1600E0C86D /* Main.storyboard */,
@@ -232,9 +253,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94C116151C5F0C2700E0C86D /* cat.png in Resources */,
+				94C1161B1C5F19DC00E0C86D /* thankyou.png in Resources */,
+				94C1161D1C5F1D8100E0C86D /* thankyou2.png in Resources */,
 				94C115EB1C5EEA1600E0C86D /* LaunchScreen.storyboard in Resources */,
+				94C116111C5EEB3500E0C86D /* fish3.jpg in Resources */,
 				94C115E81C5EEA1600E0C86D /* Assets.xcassets in Resources */,
+				94C116191C5F154100E0C86D /* heart.png in Resources */,
 				94C115E31C5EEA1600E0C86D /* Main.storyboard in Resources */,
+				94C1161F1C5F1E3D00E0C86D /* thankyou3.png in Resources */,
+				94C116131C5EED6F00E0C86D /* アイコン猫.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
